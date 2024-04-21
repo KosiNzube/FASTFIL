@@ -70,7 +70,7 @@ class PayCard extends StatefulWidget {
 }
 
 class _PayCardState extends State<PayCard> {
-  var publicKey = 'pk_test_285b6fee2412a1eb08e41763cb76aa63828a525a';
+  var publicKey = 'pk_te***************828a525a';
   final plugin = PaystackPlugin();
 
   @override
