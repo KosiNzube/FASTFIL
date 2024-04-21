@@ -1,9 +1,5 @@
 # FASTFIL
 
-A Full stack Flutter mobile app.
-
-## Getting Started
-
 A contemporary mobile E-commerce platform prioritizing both food delivery and gas refills, developed entirely using Flutter.
 
 A few resources to get you started if this is your first Flutter project:
