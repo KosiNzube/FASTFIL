@@ -34,10 +34,10 @@ void main() async {
    // name:"Fast-fil",
 
     options:FirebaseOptions(
-      apiKey: "AIzaSyBRWe6ljejI4tJLMTfjjfISQniFbNK-S6M",
-      appId: "1:500621667467:web:2a39d8a92661995991788e",
-      messagingSenderId: "500621667467",
-      projectId: "afri-gas"),);
+      apiKey: "AIza********niFbNK-S6M",
+      appId: "1:5006*********991788e",
+      messagingSenderId: "500621******",
+      projectId: "******gas"),);
 
 
   if(kIsWeb){
